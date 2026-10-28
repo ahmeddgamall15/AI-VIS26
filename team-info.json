@@ -1,0 +1,33 @@
+{
+  "team_name": "AI/VIS26",
+  "students": [
+    {
+      "student_id": "K12406570",
+      "first_name": "Ahmed",
+      "last_name": "Abdelhady",
+      "email": "k12406570@student.jku.at",
+      "github_user": "ahmeddgamall15"
+    },
+    {
+      "student_id": "k12406569",
+      "first_name": "Omar",
+      "last_name": "Ibrahim",
+      "email": "k12406569@student.jku.at",
+      "github_user": "Oibrahim20"
+    },
+    {
+      "student_id": "K12007247",
+      "first_name": "Ruqaya",
+      "last_name": "Mubarak",
+      "email": "k12007247@student.jku.at",
+      "github_user": ""
+    },
+    {
+      "student_id": "K12448223",
+      "first_name": "Abdelrahman",
+      "last_name": "Elshazly",
+      "email": "K12448223@student.jku.at",
+      "github_user": "abdelrahman-elshazly"
+    }
+  ]
+}

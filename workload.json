@@ -1,0 +1,25 @@
+{
+  "team_name": "AI/VIS26",
+  "students": [
+    {
+      "first_name": "Ahmed",
+      "last_name": "Abdelhady",
+      "workload": 0.25
+    },
+    {
+      "first_name": "Omar",
+      "last_name": "Ibrahim",
+      "workload": 0.25
+    },
+    {
+      "first_name": "Ruqaya",
+      "last_name": "Mubarak",
+      "workload": 0.25
+    },
+    {
+      "first_name": "Abdelrahman",
+      "last_name": "Elshazly",
+      "workload": 0.25
+    }
+  ]
+}
