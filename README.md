@@ -45,6 +45,12 @@ It also explores prediction confidence through softmax probabilities and checks 
 - **team-info.json:** Group member information.
 - **workload.json:** Distribution of work among group members.
 
+## Phase 1 – Progress Presentation
+
+Our Phase 1 progress presentation summarizes the work of both pairs, highlights the main findings, and compares the human-only and AI-assisted approaches.
+
+**Video Presentation:** [Watch our Phase 1 presentation](https://youtu.be/sk1LoQmr6ag)
+
 ## Phase 2 – Model Understanding
 
 In Phase 2, we will investigate what the CNN has learned internally, using visualization and explanation techniques.
